@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ptssk/CLionProjects/PageRank/main.cpp
+iostream
+-
+vector
+-
+map
+-
+set
+-
+cstring
+-
+
